@@ -1,0 +1,23 @@
+{
+  "name": "relaizhe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzhenaa/relaizhe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanzhenaa/relaizhe/issues"
+  },
+  "homepage": "https://github.com/hanzhenaa/relaizhe#readme"
+}
